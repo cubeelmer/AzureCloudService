@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCloudServiceConsoleAppTest", "AzureCloudServiceConsoleAppTest\AzureCloudServiceConsoleAppTest.csproj", "{7B9B8315-F2C3-48C8-B29C-C8FEB9C4C8DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCloudServicePipe", "AzureCloudServicePipe\AzureCloudServicePipe.csproj", "{746ADEDE-4AC6-4917-BB35-BF3C4B5D219B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B9B8315-F2C3-48C8-B29C-C8FEB9C4C8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9B8315-F2C3-48C8-B29C-C8FEB9C4C8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9B8315-F2C3-48C8-B29C-C8FEB9C4C8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9B8315-F2C3-48C8-B29C-C8FEB9C4C8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746ADEDE-4AC6-4917-BB35-BF3C4B5D219B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746ADEDE-4AC6-4917-BB35-BF3C4B5D219B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746ADEDE-4AC6-4917-BB35-BF3C4B5D219B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746ADEDE-4AC6-4917-BB35-BF3C4B5D219B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AF7A9FF-4D7A-41DA-BF92-70C1E663A844}
+	EndGlobalSection
+EndGlobal
